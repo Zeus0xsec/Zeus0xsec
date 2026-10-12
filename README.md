@@ -1,5 +1,5 @@
 <details open>
-<summary>🇬🇧 <b>ENGLISH VERSION (Default) - Click to collapse/expand</b></summary>
+<summary>🇬🇧 <b>ENGLISH VERSION - Click to expand</b></summary>
 <br>
 
 # Hi, I'm Wiktor! 👋
