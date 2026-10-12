@@ -8,9 +8,9 @@ I build and document home labs that mirror real helpdesk and security work: Acti
 
 | Repo | What it shows |
 |---|---|
-| [ad-helpdesk-homelab](https://github.com/Zeus0xsec/ad-helpdesk-homelab) | Active Directory, OUs, DHCP, GPO, SMB shares |
-| [wazuh-siem-homelab](https://github.com/Zeus0xsec/wazuh-siem-homelab) | Wazuh, Sysmon, e-mail and Discord alerting, alert triage |
-| [helpdesk-runbooks](https://github.com/Zeus0xsec/helpdesk-runbooks) | Troubleshooting runbooks from the lab (EN/PL) |
+| [LAB-HELPDESK]([https://github.com/Zeus0xsec/ad-helpdesk-homelab](https://github.com/Zeus0xsec/Active-Directory-Home-Lab)) | Active Directory, OUs, DHCP, GPO, SMB shares |
+| [LAB-WAZUH-SIEM]([https://github.com/Zeus0xsec/wazuh-siem-homelab](https://github.com/Zeus0xsec/Wazuh-SIEM-Security)) | Wazuh, Sysmon, e-mail and Discord alerting, alert triage |
+
 
 ## Tools
 Windows Server 2022 · Windows 11 · Active Directory · Group Policy · DHCP · DNS · PowerShell (learning) · Wazuh · Sysmon · Ubuntu · Postfix · Oracle VirtualBox
