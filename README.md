@@ -58,7 +58,7 @@ Buduję i dokumentuję home laby, które odzwierciedlają prawdziwą pracę help
 
 ## Technologie i Narzędzia
 
-🔹 **Systemy:** Windows Server 2022, Windows 11, Ubuntu  
+🔹 **Systemy:** Windows Server 2022, Windows 11, Ubuntu, Kali Linux
 🔹 **Infrastruktura:** Active Directory, Group Policy (GPO), DHCP, DNS  
 🔹 **Bezpieczeństwo & Monitoring:** Wazuh SIEM, Sysmon, Postfix  
 🔹 **Narzędzia:** PowerShell, Oracle VirtualBox  
