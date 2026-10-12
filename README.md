@@ -8,8 +8,8 @@ I build and document home labs that mirror real helpdesk and security work: Acti
 
 | Repo | What it shows |
 |---|---|
-| [LAB-HELPDESK]([https://github.com/Zeus0xsec/ad-helpdesk-homelab](https://github.com/Zeus0xsec/Active-Directory-Home-Lab)) | Active Directory, OUs, DHCP, GPO, SMB shares |
-| [LAB-WAZUH-SIEM]([https://github.com/Zeus0xsec/wazuh-siem-homelab](https://github.com/Zeus0xsec/Wazuh-SIEM-Security)) | Wazuh, Sysmon, e-mail and Discord alerting, alert triage |
+| [LAB-HELPDESK](https://github.com/Zeus0xsec/ad-helpdesk-homelab](https://github.com/Zeus0xsec/Active-Directory-Home-Lab) | Active Directory, OUs, DHCP, GPO, SMB shares |
+| [LAB-WAZUH-SIEM](https://github.com/Zeus0xsec/wazuh-siem-homelab](https://github.com/Zeus0xsec/Wazuh-SIEM-Security) | Wazuh, Sysmon, e-mail and Discord alerting, alert triage |
 
 
 ## Tools
