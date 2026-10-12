@@ -1,19 +1,19 @@
-### Hi, I'm Wiktor! 👋
-
-I am a Cybersecurity engineering student based in Kraków, building strong practical foundations in **IT Support / Helpdesk**. I learn best by doing—designing, deploying, and troubleshooting complex IT infrastructure in my own virtual environments. 
-
-- **Currently working on:** Expanding my Enterprise Home Lab (Windows Server 2022 + Ubuntu) with **Wazuh SIEM**, automated alerting pipelines (Postfix + Mailtrap), and threat detection using **Sysmon**.
-- **Experimenting with:** Python scripting and AI / LLM API integrations to automate administrative tasks and parse security logs into human-readable alerts.
-- **Currently learning:** Advanced PowerShell automation, Active Directory environment hardening (GPO), and Hybrid Cloud environments (Microsoft Entra ID).
-- **Career Goal:** IT Support / Helpdesk
-
----
-
-### 🛠️ My Tech Stack & Skills:
-
-- **Operating Systems:** Windows Server 2022, Windows 11, Ubuntu Linux
-- **Infrastructure & Identity:** Active Directory (AD DS), OU Management, GPO (Policy enforcement), DNS, SMB / NTFS File Shares
-- **Networking:** Virtual Networking (VirtualBox internal networks), Static Routing, NAT, TCP/IP fundamentals
-- **Security & SIEM:** Wazuh SIEM (Manager & Agent deployment), Windows Event Log Analysis (e.g., AD Event IDs 4720, 4738), Blue Team fundamentals
-- **Scripting & Automation:** PowerShell (Silent installs, AD user automation), Bash, Python (API integrations)
-- **Tools & Services:** Oracle VirtualBox, Postfix (SMTP Relay with SASL authentication), Mailtrap
+Hi, I'm Wiktor 👋
+IT Support / Service Desk candidate · Cybersecurity student (Engineer's degree, 2nd year) · Kraków, Poland
+I build and document home labs that mirror real helpdesk and security work: Active Directory, DHCP, Group Policy, Wazuh SIEM, Sysmon and alerting. I am looking for my first IT role (full-time, part-time or internship).
+Projects
+Repo	What it shows
+ad-helpdesk-homelab	Active Directory, OUs, DHCP, GPO, SMB shares
+wazuh-siem-homelab	Wazuh, Sysmon, e-mail and Discord alerting, alert triage
+helpdesk-runbooks	Troubleshooting runbooks from the lab (EN/PL)
+Tools
+Windows Server 2022 · Windows 11 · Active Directory · Group Policy · DHCP · DNS · PowerShell (learning) · Wazuh · Sysmon · Ubuntu · Postfix · Oracle VirtualBox
+Contact
+LinkedIn · Portfolio
+<details>
+<summary>🇵🇱 <b>Po polsku</b></summary>
+Cześć, jestem Wiktor 👋
+Kandydat na IT Support / Service Desk · student cyberbezpieczeństwa (inżynierskie, 2. rok) · Kraków
+Buduję i dokumentuję home laby odzwierciedlające prawdziwą pracę helpdesku i bezpieczeństwa: Active Directory, DHCP, Group Policy, Wazuh SIEM, Sysmon i alerty. Szukam pierwszej pracy w IT (pełny etat, część etatu lub staż).
+Projekty: patrz tabela powyżej. Każde repozytorium ma README po polsku i po angielsku.
+</details>
