@@ -1,32 +1,77 @@
-# Hi, I'm Wiktor 👋
+<details open>
+<summary>🇬🇧 <b>ENGLISH VERSION (Default) - Click to collapse/expand</b></summary>
+<br>
 
-**IT Support / Service Desk candidate** · Cybersecurity student (Engineer's degree, 2nd year) · Kraków, Poland
+# Hi, I'm Wiktor! 👋
 
-I build and document home labs that mirror real helpdesk and security work: Active Directory, DHCP, Group Policy, Wazuh SIEM, Sysmon and alerting. I am looking for my first IT role (full-time, part-time or internship).
+### IT Support / Service Desk Candidate | Cybersecurity Student
+📍 Kraków, Poland
 
-## Projects
+**[LinkedIn](https://www.linkedin.com/in/wiktorgawelll)** | **[Portfolio](https://zeus0xsec.netlify.app/)**
 
-| Repo | What it shows |
+---
+
+## About Me
+
+I build and document home labs that mirror real helpdesk and security operations (SOC) work. I am currently looking for my first IT role (full-time, part-time, or internship).
+
+---
+
+## Technologies & Tools
+
+🔹 **Systems:** Windows Server 2022, Windows 11, Ubuntu, Kali Linux
+🔹 **Infrastructure:** Active Directory, Group Policy (GPO), DHCP, DNS  
+🔹 **Security & Monitoring:** Wazuh SIEM, Sysmon, Postfix  
+🔹 **Tools:** PowerShell, Oracle VirtualBox  
+
+---
+
+## My Projects
+
+| Repository | What it shows |
 |---|---|
-| [LAB-ACTIVE-DIRECTORY](https://github.com/Zeus0xsec/Active-Directory-Home-Lab) | Active Directory, OUs, DHCP, GPO, SMB shares |
-| [LAB-TROUBLESHOOTING](https://github.com/Zeus0xsec/Troubleshooting-Break-Fix-Scenarios) | GPO Hardening & Troubleshooting, DNS Management & Interface Metrics (Routing) |
+| 🔗 **[LAB-ACTIVE-DIRECTORY](https://github.com/Zeus0xsec/Active-Directory-Home-Lab)** | Active Directory configuration, OUs, DHCP, GPO, SMB shares. |
+| 🔗 **[LAB-TROUBLESHOOTING](https://github.com/Zeus0xsec/Troubleshooting-Break-Fix-Scenarios)** | Troubleshooting, GPO hardening, DNS management, and interface metrics (Routing). |
 
+> *Each repository includes step-by-step documentation in both Polish and English.*
 
-## Tools
-Windows Server 2022 · Windows 11 · Active Directory · Group Policy · DHCP · DNS · PowerShell (learning) · Wazuh · Sysmon · Ubuntu · Postfix · Oracle VirtualBox
-
-## Contact
-[LinkedIn](https://www.linkedin.com/in/wiktorgawelll) · [Portfolio](https://zeus0xsec.netlify.app/)
+</details>
 
 <details>
-<summary>🇵🇱 <b>Po polsku</b></summary>
+<summary>🇵🇱 <b>WERSJA POLSKA - Kliknij, aby rozwinąć</b></summary>
+<br>
 
-# Cześć, jestem Wiktor 👋
+# Cześć, jestem Wiktor! 👋
 
-**Kandydat na IT Support / Service Desk** · student cyberbezpieczeństwa (inżynierskie, 2. rok) · Kraków
+### Kandydat na IT Support / Service Desk | Student Cyberbezpieczeństwa
+📍 Kraków, Polska
 
-Buduję i dokumentuję home laby odzwierciedlające prawdziwą pracę helpdesku i bezpieczeństwa: Active Directory, DHCP, Group Policy, Wazuh SIEM, Sysmon i alerty. Szukam pierwszej pracy w IT (pełny etat, część etatu lub staż).
+**[LinkedIn](https://www.linkedin.com/in/wiktorgawelll)** | **[Portfolio](https://zeus0xsec.netlify.app/)**
 
-Projekty: patrz tabela powyżej. Każde repozytorium ma README po polsku i po angielsku.
+---
+
+## O mnie
+
+Buduję i dokumentuję home laby, które odzwierciedlają prawdziwą pracę helpdesku i działów bezpieczeństwa (SOC). Szukam swojej pierwszej pracy w IT (pełny etat, część etatu lub staż). 
+
+---
+
+## Technologie i Narzędzia
+
+🔹 **Systemy:** Windows Server 2022, Windows 11, Ubuntu  
+🔹 **Infrastruktura:** Active Directory, Group Policy (GPO), DHCP, DNS  
+🔹 **Bezpieczeństwo & Monitoring:** Wazuh SIEM, Sysmon, Postfix  
+🔹 **Narzędzia:** PowerShell, Oracle VirtualBox  
+
+---
+
+## Moje Projekty
+
+| Repozytorium | Czego dotyczy |
+|---|---|
+| **[LAB-ACTIVE-DIRECTORY](https://github.com/Zeus0xsec/Active-Directory-Home-Lab)** | Konfiguracja Active Directory, OUs, DHCP, GPO, udziałów SMB. |
+| **[LAB-TROUBLESHOOTING](https://github.com/Zeus0xsec/Troubleshooting-Break-Fix-Scenarios)** | Rozwiązywanie problemów, hardening GPO, zarządzanie DNS i metrykami interfejsów (Routing). |
+
+> *Każde repozytorium zawiera szczegółowe README krok po kroku w języku polskim oraz angielskim.*
 
 </details>
