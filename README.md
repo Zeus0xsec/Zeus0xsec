@@ -20,8 +20,8 @@ I build and document home labs that mirror real helpdesk and security operations
 ## Technologies & Tools
 
 🔹 **Systems:** Windows Server 2022, Windows 11, Ubuntu, Kali Linux
-🔹 **Infrastructure:** Active Directory, Group Policy (GPO), DHCP, DNS  
-🔹 **Security & Monitoring:** Wazuh SIEM, Sysmon, Postfix  
+🔹 **Infrastructure:** Active Directory, Group Policy (GPO), DHCP, DNS, SMB / CIFS & NTFS, WinRM & PowerShell Remoting
+🔹 **Security & Monitoring:** Wazuh SIEM, Sysmon, Postfix, Windows Security Event Logs
 🔹 **Tools:** PowerShell, Oracle VirtualBox  
 
 ---
