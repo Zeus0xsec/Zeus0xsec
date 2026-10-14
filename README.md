@@ -2,10 +2,10 @@
 <summary>🇬🇧 <b>ENGLISH VERSION - Click to expand</b></summary>
 <br>
 
-# Hi, I'm Wiktor! 👋
+# Hi, I'm Wiktor! 
 
 ### IT Support / Service Desk Candidate | Cybersecurity Student
-📍 Kraków, Poland
+Crakow, Poland
 
 **[LinkedIn](https://www.linkedin.com/in/wiktorgawelll)** | **[Portfolio](https://zeus0xsec.netlify.app/)**
 
@@ -41,10 +41,10 @@ I build and document home labs that mirror real helpdesk and security operations
 <summary>🇵🇱 <b>WERSJA POLSKA - Kliknij, aby rozwinąć</b></summary>
 <br>
 
-# Cześć, jestem Wiktor! 👋
+# Cześć, jestem Wiktor!
 
 ### Kandydat na IT Support / Service Desk | Student Cyberbezpieczeństwa
-📍 Kraków, Polska
+Kraków, Polska
 
 **[LinkedIn](https://www.linkedin.com/in/wiktorgawelll)** | **[Portfolio](https://zeus0xsec.netlify.app/)**
 
