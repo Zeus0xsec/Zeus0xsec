@@ -32,6 +32,7 @@ I build and document home labs that mirror real helpdesk and security operations
 |---|---|
 | 🔗 **[LAB-ACTIVE-DIRECTORY](https://github.com/Zeus0xsec/Active-Directory-Home-Lab)** | Active Directory configuration, OUs, DHCP, GPO, SMB shares. |
 | 🔗 **[LAB-TROUBLESHOOTING](https://github.com/Zeus0xsec/Troubleshooting-Break-Fix-Scenarios)** | Troubleshooting, GPO hardening, DNS management, and interface metrics (Routing). |
+| 🔗 **[AZURE-LAB](https://github.com/Zeus0xsec/AZURE-LAB)** | Cloud Identity (Entra ID), Least Privilege enforcement (RBAC), FinOps budget management, and Sign-in Log triage. |
 
 > *Each repository includes step-by-step documentation in both Polish and English.*
 
