@@ -31,7 +31,9 @@ I build and document home labs that mirror real helpdesk and security operations
 | Repository | What it shows |
 |---|---|
 | 🔗 **[LAB-ACTIVE-DIRECTORY](https://github.com/Zeus0xsec/Active-Directory-Home-Lab)** | Active Directory configuration, OUs, DHCP, GPO, SMB shares. |
+
 | 🔗 **[LAB-TROUBLESHOOTING](https://github.com/Zeus0xsec/Troubleshooting-Break-Fix-Scenarios)** | Troubleshooting, GPO hardening, DNS management, and interface metrics (Routing). |
+
 | 🔗 **[AZURE-LAB](https://github.com/Zeus0xsec/AZURE-LAB)** | Cloud Identity (Entra ID), Least Privilege enforcement (RBAC), FinOps budget management, and Sign-in Log triage. |
 
 > *Each repository includes step-by-step documentation in both Polish and English.*
@@ -71,7 +73,11 @@ Buduję i dokumentuję home laby, które odzwierciedlają prawdziwą pracę help
 | Repozytorium | Czego dotyczy |
 |---|---|
 | **[LAB-ACTIVE-DIRECTORY](https://github.com/Zeus0xsec/Active-Directory-Home-Lab)** | Konfiguracja Active Directory, OUs, DHCP, GPO, udziałów SMB. |
+
 | **[LAB-TROUBLESHOOTING](https://github.com/Zeus0xsec/Troubleshooting-Break-Fix-Scenarios)** | Rozwiązywanie problemów, hardening GPO, zarządzanie DNS i metrykami interfejsów (Routing). |
+
+| 🔗 **[AZURE-LAB](https://github.com/Zeus0xsec/AZURE-LAB)** | Tożsamość chmurowa (Entra ID), egzekwowanie Least Privilege (RBAC), kontrola budżetu (FinOps) i triaż logów logowania. |
+
 
 > *Każde repozytorium zawiera szczegółowe README krok po kroku w języku polskim oraz angielskim.*
 
